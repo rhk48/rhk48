@@ -26,3 +26,6 @@
 
 
 ### Skills 🖥️
+Python R SQLite
+
+
