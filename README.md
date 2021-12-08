@@ -41,4 +41,4 @@
 <p> 
 
 # Let's Connect 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/rhk48)  
+[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
