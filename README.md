@@ -1,13 +1,13 @@
 ### Hi there!! I'm Rashid Karriti👋
 
-#### About Me :man:
+# About Me :man:
 - 🔭 I’m currently working @ Uber
 - 🌱 I’m currently learning SQL, Tableau, R, and advancing Machine Learning and Python Skills 
 - 💬 Ask me about Politics (specifically Middle Eastern Affairs), Sports, and all things Data Analysis
 - 😄 Pronouns: He/Him
 - 🏛 Washington, D.C. 
 
-### Projects 📊
+# Projects 📊
 🇰🇷 [Time Series Analysis of Air Pollution in Seoul, South Korea](https://github.com/rhk48/Time-Series-Analysis-of-Seouls-Air-Pollution)
 - Collected 650,000 data points across 25 districts of the daily average of each pollutant level.
 - Feature Engineered to filter for areas that reach levels of extremely dangerous pollutants
@@ -25,7 +25,7 @@
 - Filtered for proper feature priorities from models to inquiry what factors best predicted severe crashes and fatalities in Chicago. 
 
 
-### Skills 🖥
+# Skills 🖥
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
