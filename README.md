@@ -1,6 +1,6 @@
 ### Hi there!! I'm Rashid Karriti👋
 
-### About Me :man:
+# About Me :man:
 - 🔭 I’m currently working @ Uber
 - 🌱 I’m currently learning SQL, Tableau, R, and advancing Machine Learning and Python Skills 
 - 💬 Ask me about Politics (specifically Middle Eastern Affairs), Sports, and all things Data Analysis
