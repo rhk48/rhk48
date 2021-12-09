@@ -43,7 +43,7 @@
 <p>
   <a href="https://www.linkedin.com/in/rashid-karriti/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="rhk48@georgetown.edu">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
   <a href="https://medium.com/@rhk48">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>   
