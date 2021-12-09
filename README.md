@@ -1,5 +1,7 @@
 # Hi there!! I'm Rashid Karriti👋
 
+Data Analyst with a background in Middle East Policy and a passion for innovative problem solving and critical thinking. Understanding of building SQL databases, Machine Learning, and Big Data while integrating strong fundamental statistical understandings. With previous experience in the government sector and policy making, I excel at delivering highly complex information to audiences unfamiliar with the subjects at hand and offering actionable results. Bilingual Arabic and English. 
+
 # About Me :man:
 - 🔭 I’m currently working @ Uber
 - 🌱 I’m currently learning SQL, Tableau, R, and advancing Machine Learning and Python Skills 
