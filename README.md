@@ -3,7 +3,7 @@
 Data Analyst with a background in Middle East Policy and a passion for innovative problem solving and critical thinking. Understanding of building SQL databases, Machine Learning, and Big Data while integrating strong fundamental statistical understandings. With previous experience in the government sector and policy making, I excel at delivering highly complex information to audiences unfamiliar with the subjects at hand and offering actionable results. Bilingual Arabic and English. 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rhk48&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 # About Me :man:
