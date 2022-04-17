@@ -7,8 +7,8 @@ Data Analyst with a background in Middle East Policy and a passion for innovativ
 </p>
 
 # About Me :man:
-- 🔭 I’m currently working @ Uber
-- 🌱 I’m currently learning SQL, Tableau, R, and advancing Machine Learning and Python Skills 
+- 🔭 I’m currently working @ Mathematica 
+- 🌱 I’m currently advancing my skills in SQL, Tableau, R, Machine Learning, and Python  
 - 💬 Ask me about Politics (specifically Middle Eastern Affairs), Sports, and all things Data Analysis
 - 😄 Pronouns: He/Him
 - 🏛 Washington, D.C. 
